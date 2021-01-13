@@ -1,0 +1,13 @@
+C:\Users\Laptop\source\repos\ConsoleApp-ObjectAndClass\ConsoleApp-ObjectAndClass\bin\Debug\netcoreapp3.1\ConsoleApp-ObjectAndClass.exe
+C:\Users\Laptop\source\repos\ConsoleApp-ObjectAndClass\ConsoleApp-ObjectAndClass\bin\Debug\netcoreapp3.1\ConsoleApp-ObjectAndClass.deps.json
+C:\Users\Laptop\source\repos\ConsoleApp-ObjectAndClass\ConsoleApp-ObjectAndClass\bin\Debug\netcoreapp3.1\ConsoleApp-ObjectAndClass.runtimeconfig.json
+C:\Users\Laptop\source\repos\ConsoleApp-ObjectAndClass\ConsoleApp-ObjectAndClass\bin\Debug\netcoreapp3.1\ConsoleApp-ObjectAndClass.runtimeconfig.dev.json
+C:\Users\Laptop\source\repos\ConsoleApp-ObjectAndClass\ConsoleApp-ObjectAndClass\bin\Debug\netcoreapp3.1\ConsoleApp-ObjectAndClass.dll
+C:\Users\Laptop\source\repos\ConsoleApp-ObjectAndClass\ConsoleApp-ObjectAndClass\bin\Debug\netcoreapp3.1\ConsoleApp-ObjectAndClass.pdb
+C:\Users\Laptop\source\repos\ConsoleApp-ObjectAndClass\ConsoleApp-ObjectAndClass\obj\Debug\netcoreapp3.1\ConsoleApp-ObjectAndClass.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\ConsoleApp-ObjectAndClass\ConsoleApp-ObjectAndClass\obj\Debug\netcoreapp3.1\ConsoleApp-ObjectAndClass.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\ConsoleApp-ObjectAndClass\ConsoleApp-ObjectAndClass\obj\Debug\netcoreapp3.1\ConsoleApp-ObjectAndClass.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\ConsoleApp-ObjectAndClass\ConsoleApp-ObjectAndClass\obj\Debug\netcoreapp3.1\ConsoleApp-ObjectAndClass.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\ConsoleApp-ObjectAndClass\ConsoleApp-ObjectAndClass\obj\Debug\netcoreapp3.1\ConsoleApp-ObjectAndClass.dll
+C:\Users\Laptop\source\repos\ConsoleApp-ObjectAndClass\ConsoleApp-ObjectAndClass\obj\Debug\netcoreapp3.1\ConsoleApp-ObjectAndClass.pdb
+C:\Users\Laptop\source\repos\ConsoleApp-ObjectAndClass\ConsoleApp-ObjectAndClass\obj\Debug\netcoreapp3.1\ConsoleApp-ObjectAndClass.genruntimeconfig.cache
